@@ -1,4 +1,4 @@
-# 9-5-Fractal-Jana-Model-175-SPARC
+9-5-Fractal-Jana-Model-175-SPARC
 
 175/175 SPARC Galaxies Without Dark Matter - Complete Cross-Validation
 DOI: 10.5281/zenodo.24290082
@@ -12,8 +12,9 @@ Result: Avg R2 = 0.89 for all 175/175, no per-galaxy tuning, no dark matter
 
 175 is complete SPARC database (Lelli et al. 2016). Beyond this no comparable data exists.
 
-## Run
-```python
+Run: python jana_175.py
+
+
 
 
 
