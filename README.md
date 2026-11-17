@@ -14,7 +14,8 @@ Result: Avg R2 = 0.89 for all 175/175, no per-galaxy tuning, no dark matter
 
 ## Run
 ```python
-python jana_175.py
+
+
 
 
 
