@@ -1,7 +1,20 @@
 # 9-5-Fractal-Jana-Model-175-SPARC
-  175/175 SPARC Galaxies Without Dark Matter - Complete Cross-Validation - DOI:10.5281/zenodo.24290082 - Author Surya Jana, Arangkia Rana, Moyna, 721642
 
+175/175 SPARC Galaxies Without Dark Matter - Complete Cross-Validation
+DOI: 10.5281/zenodo.24290082
+Author: Surya Jana, Arangkia Rana, Moyna, Purba Medinipur - 721642, WB, India
 
+Geometrical proof: A_inf = 3/2 A0 (finite), P_n = P0*(9/5)^n (divergent)
+lambda_h = 1.5, lambda_a = 1.8, R_th = sqrt(6/5) = 1.09544
+
+Universal: beta0 = 0.147401 (Diary Jan 21, 2026), rc = 3kpc
+Result: Avg R2 = 0.89 for all 175/175, no per-galaxy tuning, no dark matter
+
+175 is complete SPARC database (Lelli et al. 2016). Beyond this no comparable data exists.
+
+## Run
+```python
+python jana_175.py
 
 
 
