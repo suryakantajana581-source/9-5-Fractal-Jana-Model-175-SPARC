@@ -1,7 +1,9 @@
 # 9-5-Fractal-Jana-Model-175-SPARC
 
 175/175 SPARC Galaxies Without Dark Matter - Complete Cross-Validation
+
 DOI: 10.5281/zenodo.24290082
+
 ResearchGate: https://doi.org/10.13140/RG.2.2.14505.56163
 Author: Suryakanta Jana, Arangkiyarana, Moyna, Purba Medinipur - 721642, WB, India
 
