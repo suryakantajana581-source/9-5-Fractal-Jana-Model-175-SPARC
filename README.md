@@ -13,7 +13,9 @@ Universal: beta0=0.147401 (Diary Jan 21, 2026), rc=3kpc
 ![Validation Plot](175_validation.png)
 
 ## Run
+
 python jana_175.py
+
 
 
 import numpy as np
