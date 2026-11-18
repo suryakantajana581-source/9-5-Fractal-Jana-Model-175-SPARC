@@ -2,7 +2,8 @@
 
 175/175 SPARC Galaxies Without Dark Matter - Complete Cross-Validation
 DOI: 10.5281/zenodo.24290082
-Author: Surya Jana, Arangkia Rana, Moyna, Purba Medinipur - 721642, WB, India
+ResearchGate: https://doi.org/10.13140/RG.2.2.14505.56163
+Author: Suryakanta Jana, Arangkiyarana, Moyna, Purba Medinipur - 721642, WB, India
 
 Geometrical proof: A_inf = 3/2 A0 (finite), P_n = P0*(9/5)^n (divergent)
 lambda_h = 1.5, lambda_a = 1.8, R_th = sqrt(6/5) = 1.09544
