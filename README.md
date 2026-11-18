@@ -17,6 +17,7 @@ Universal: beta0=0.147401 (Diary Jan 21, 2026), rc=3kpc
 
 
 import numpy as np
+import numpy as np
 
 BETA0 = 0.147401
 RC = 3.0
