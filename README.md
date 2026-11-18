@@ -12,7 +12,8 @@ Result: Avg R2 = 0.89 for all 175/175, no per-galaxy tuning, no dark matter
 
 175 is complete SPARC database (Lelli et al. 2016). Beyond this no comparable data exists.
 
-Run: python jana_175.py
+Run: 
+python jana_175.py
 
 
 
