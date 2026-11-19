@@ -1,7 +1,5 @@
 
 
-
-
 # 9/5 Fractal Jana Manifold Model — 175 SPARC Galaxy Validation
 
 **Author:** Suryakanta Jana (Independent Researcher, West Bengal, India)  
@@ -17,7 +15,13 @@ Using the **9/5 Fractal Jana Manifold Model** and the **$1.5A$ Area Bounded Conv
 1. Install dependencies: `pip install numpy matplotlib`
 2. Run the simulation script:
 
- `python sparc_175_validation.py`
+
+
+
+
+
+
+python sparc_175_validation.py
 
 
 
