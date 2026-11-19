@@ -15,7 +15,9 @@ Using the **9/5 Fractal Jana Manifold Model** and the **$1.5A$ Area Bounded Conv
 
 ## How to Run
 1. Install dependencies: `pip install numpy matplotlib`
-2. Run the simulation script: `python sparc_175_validation.py`
+2. Run the simulation script:
+
+ `python sparc_175_validation.py`
 
 
 
@@ -44,7 +46,8 @@ import numpy as np
 
 
 def generate_sparc_simulation():
-    # Set deterministic seed for reproducible research results
+   
+ # Set deterministic seed for reproducible research results
     np.random.seed(175)
 
     # Galactocentric radius r from 0 to 50 kpc
