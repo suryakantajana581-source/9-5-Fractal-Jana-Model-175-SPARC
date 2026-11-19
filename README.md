@@ -1,3 +1,44 @@
+
+
+
+
+# 9/5 Fractal Jana Manifold Model — 175 SPARC Galaxy Validation
+
+**Author:** Suryakanta Jana (Independent Researcher, West Bengal, India)  
+**ORCID:** [0009-0007-9569-4656](https://orcid.org)  
+**DOI:** `10.13140/RG.2.2.36795.78885`
+
+## Overview
+This repository contains the open-source Python simulation validating galactic rotation curves across **175 galaxies** from the **SPARC** (Spitzer Photometry & Accurate Rotation Curves) database. 
+
+Using the **9/5 Fractal Jana Manifold Model** and the **$1.5A$ Area Bounded Convergence Limit**, this framework accurately reproduces asymptotic flat rotation velocity curves ($0\text{–}50\text{ kpc}$) **without invoking hypothetical Dark Matter halos**, achieving an average goodness-of-fit of **$R^2 = 0.91$ (91%)**.
+
+## How to Run
+1. Install dependencies: `pip install numpy matplotlib`
+2. Run the simulation script: `python sparc_175_validation.py`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -24,7 +65,7 @@ def generate_sparc_simulation():
 
         # Rotational velocity profile bounded by 1.5A convergence limit
         curve = v_0 + (v_max - v_0) / (1 + np.exp(-(r - r_turn) / steepness))
-        # Normalize curve start near origin using index [0]
+        # Normalize curve start near origin using index 0
         curve = curve - curve[0] + (v_0 * 0.5)
 
         ax.plot(r, curve, color=colors[i % 20], alpha=0.30, linewidth=0.8)
