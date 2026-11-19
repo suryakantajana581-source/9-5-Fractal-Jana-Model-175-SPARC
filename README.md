@@ -1,3 +1,6 @@
+RUN PYTHON CODE 
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 
